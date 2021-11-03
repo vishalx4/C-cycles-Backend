@@ -33,6 +33,6 @@
     "shortid": "^2.2.15",
     "stripe": "^8.77.0",
     "uuid": "^8.2.0",
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   }
 }
